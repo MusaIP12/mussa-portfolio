@@ -893,7 +893,7 @@ export default function App() {
 
           <div className="grid gap-3 text-sm text-slate-800">
             <a
-              href="https://github.com/"
+              href="https://github.com/MusaIP12"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 transition hover:text-cyan-700"
