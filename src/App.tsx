@@ -842,10 +842,9 @@ export default function App() {
                   <h3 className="text-2xl font-semibold text-white">Experience</h3>
                   <div className="mt-5 space-y-5 text-slate-200">
                     <div>
-                      <p className="font-medium text-white">AI Safety & Technical Research Lead — AFRI-SPARC (Current)</p>
+                      <p className="font-medium text-white">Eduvos Part Time Lecturer (Current)</p>
                       <p className="mt-1 text-sm leading-7">
-                        Researcher in AI safety evaluation and technical assessment across Africa, including AI policy monitoring, regulatory gap analysis,
-                        and contributions to AFRI-SPARC's policy reports and comparative research outputs.
+                        Lecture C#, Advanced Java (networking) and PHP, including lesson preparation, assessment design and marking, student consultation, and at-risk monitoring.
                       </p>
                     </div>
                     <div>
