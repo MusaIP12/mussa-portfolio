@@ -477,7 +477,7 @@ export default function App() {
     <ul className="mt-3 space-y-3 text-sm leading-7 text-slate-200">
       <li>
         <a
-          href="https://www.researchgate.net/publication/400557194_Investigating_the_Robustness_of_Audio_Features_Under_Concept_Drift_in_Android_Malware_Detection"
+          href="https://www.researchgate.net/publication/417480139_Temporal_Adaptation_through_Sliding_Window_Retraining_for_Audio-Based_Obfuscated_Android_Malware_Classification"
           target="_blank"
           rel="noreferrer"
           className="transition hover:text-cyan-300"
