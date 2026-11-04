@@ -482,6 +482,16 @@ export default function App() {
           rel="noreferrer"
           className="transition hover:text-cyan-300"
         >
+        M. Phiri,P. Tarwireyi and A. Terzoli. 2026. “Temporal Adaptation through Sliding Window Retraining for Audio-Based Obfuscated Android Malware Classification” In Proceedings of the Southern Africa Telecommunication Networks and Applications Conference (SATNAC), Drakensberg, South Africa.
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.researchgate.net/publication/400557194_Investigating_the_Robustness_of_Audio_Features_Under_Concept_Drift_in_Android_Malware_Detection"
+          target="_blank"
+          rel="noreferrer"
+          className="transition hover:text-cyan-300"
+        >
           M. Phiri, P. Tarwireyi, and A. Terzoli, &quot;Investigating the Robustness of Audio Features Under Concept Drift in Android Malware Detection,&quot; in Proc. Southern Africa Telecommunication Networks and Applications Conference (SATNAC), Hermanus, South Africa, 2025.
         </a>
       </li>
